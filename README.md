@@ -3,6 +3,7 @@
 resolve the error “WKHTMLTOPDF not found”. This error occur when we installed Odoo first time and using report functionality of modules
 
 Get Package using command
+
 sudo wget https://github.com/mjadily/wkhtmltopdf-odoo/raw/master/wkhtmltox-0.12.1_linux-trusty-amd64.deb
 
 Install the package using command
